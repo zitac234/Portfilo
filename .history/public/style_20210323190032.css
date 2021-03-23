@@ -1,4 +1,4 @@
-body{
+.area{
       background: black;  
       background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
       width: 100%;
@@ -41,7 +41,7 @@ body{
       width: 20px;
       height: 20px;
       animation-delay: 2s;
-      animation-duration: 10s;
+      animation-duration: 12s;
   }
   
   .circles li:nth-child(3){
