@@ -1,27 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
 body{
       background: black;  
       background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
       width: 100%;
       height:100vh;
-      font-family: 'Exo', sans-serif;
+      
+     
   }
-  .context {
-    width: 100%;
-    position: absolute;
-    top: 35vh;
-    
-}
-
-.context h2{
-    text-align: center;
-    color: #fff;
-    font-size: 50px;
-}
-.context span{
-    color:red
-}
-
+  
   .circles{
       position: absolute;
       top: 0;

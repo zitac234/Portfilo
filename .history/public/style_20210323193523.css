@@ -6,22 +6,7 @@ body{
       height:100vh;
       font-family: 'Exo', sans-serif;
   }
-  .context {
-    width: 100%;
-    position: absolute;
-    top: 35vh;
-    
-}
-
-.context h2{
-    text-align: center;
-    color: #fff;
-    font-size: 50px;
-}
-.context span{
-    color:red
-}
-
+  
   .circles{
       position: absolute;
       top: 0;

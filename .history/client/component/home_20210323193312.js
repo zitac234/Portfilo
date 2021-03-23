@@ -8,7 +8,7 @@ export default class home extends React.Component{
             return ( 
                   <div>
                         <div className = 'context'>
-                              <h2>Welcome, I'm <span>Nneoma Chukwukelu</span> a Software Engineer. </h2>
+                              <h2>Welcome, I'm <span>Nneoma Chukwukelu</span>a Software Engineer.</h2>
                         </div>
                         <ul className="circles">
                               <li></li>

@@ -7,9 +7,7 @@ export default class home extends React.Component{
       background(){
             return ( 
                   <div>
-                        <div className = 'context'>
-                              <h2>Welcome, I'm <span>Nneoma Chukwukelu</span> a Software Engineer. </h2>
-                        </div>
+                  <div className = 'context'><h2>Welcome, I'm <</h2></div>
                         <ul className="circles">
                               <li></li>
                               <li></li>
