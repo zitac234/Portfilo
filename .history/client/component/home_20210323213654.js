@@ -44,8 +44,8 @@ export default class home extends React.Component{
                   <div >
                         {this.background()}
                         <section id="navbar-container">
-                              <nav id="navbar"> Hello World</nav>
-                        </section>
+          <nav id="navbar"></nav>
+        </section>
                   </div>
             )
       }

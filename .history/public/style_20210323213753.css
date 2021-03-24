@@ -11,8 +11,6 @@
   }
   body{
     font-family: 'Exo', sans-serif;
-    height: 300vh;
-    width: 100vw;
   }
   .context {
     width: 100%;
@@ -143,11 +141,11 @@
       }
   
   }
-  /* #navbar-container {
+  #navbar-container {
     margin-top: calc(100vh - 53px);
     width: 100vw;
     height: 53px;
-  } */
+  }
   
   nav {
     background: #333;

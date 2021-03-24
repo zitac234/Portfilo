@@ -6,13 +6,12 @@
 .area{
       background: black;  
       background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
-      width: 100%;
-      height:100vh;
+      /* width: 100%;
+      height:100vh; */
+
   }
   body{
     font-family: 'Exo', sans-serif;
-    height: 300vh;
-    width: 100vw;
   }
   .context {
     width: 100%;

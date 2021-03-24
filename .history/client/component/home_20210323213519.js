@@ -8,12 +8,9 @@ export default class home extends React.Component{
             window.addEventListener('scroll', () => {
                   const topBorder = document.getElementById('navbar-container').getBoundingClientRect().top
                   if(topBorder>=0)document.getElementById("navbar").classList.remove("fixed")
-                  else document.getElementById("navbar").classList.add("fixed")
+                  else
             })
       }
-      componentWillUnmount() {
-            window.removeEventListener("scroll");
-          }
       background(){
             return ( 
                   <div>
@@ -40,13 +37,6 @@ export default class home extends React.Component{
       }
       render()
       {
-            return(
-                  <div >
-                        {this.background()}
-                        <section id="navbar-container">
-                              <nav id="navbar"> Hello World</nav>
-                        </section>
-                  </div>
-            )
+            return<div >{this.background()}</div>
       }
 }

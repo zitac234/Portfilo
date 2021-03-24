@@ -11,9 +11,6 @@ export default class home extends React.Component{
                   else document.getElementById("navbar").classList.add("fixed")
             })
       }
-      componentWillUnmount() {
-            window.removeEventListener("scroll");
-          }
       background(){
             return ( 
                   <div>
@@ -40,13 +37,6 @@ export default class home extends React.Component{
       }
       render()
       {
-            return(
-                  <div >
-                        {this.background()}
-                        <section id="navbar-container">
-                              <nav id="navbar"> Hello World</nav>
-                        </section>
-                  </div>
-            )
+            return<div >{this.background()}</div>
       }
 }

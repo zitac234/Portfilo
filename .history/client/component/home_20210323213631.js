@@ -41,11 +41,8 @@ export default class home extends React.Component{
       render()
       {
             return(
-                  <div >
-                        {this.background()}
-                        <section id="navbar-container">
-                              <nav id="navbar"> Hello World</nav>
-                        </section>
+            <div >
+                  {this.background()}
                   </div>
             )
       }
