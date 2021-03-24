@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './navbar'
 export default class home extends React.Component{
       constructor(props){
             super(props)

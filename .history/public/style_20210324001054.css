@@ -163,8 +163,7 @@
   }
   .navLi{
     color:seashell;
-    padding-top: 5px;
-    margin-top: 10px;
+    padding-top: 1px;
   }
   .fixed {
     position: fixed;

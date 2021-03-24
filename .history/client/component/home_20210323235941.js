@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './navbar'
 export default class home extends React.Component{
       constructor(props){
             super(props)
@@ -45,7 +44,7 @@ export default class home extends React.Component{
                   <div >
                         {this.background()}
                         <section id="navbar-container">
-                              <nav id="navbar"><Navbar/></nav>
+                              <nav id="navbar"> <Navbar/></nav>
                         </section>
                   </div>
             )

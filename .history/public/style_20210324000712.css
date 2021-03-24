@@ -148,7 +148,7 @@
     width: 100vw;
     height: 53px;
   } */
-  #navbarUl{
+  #navbarUL{
     display: flex;
     list-style: none;
     justify-content: space-around;
@@ -158,14 +158,11 @@
     background: #333;
     width: 100vw;
     height: 50px;
+    color:
     border: 1px solid black;
     border-bottom: 3px solid #04c2c9;
   }
-  .navLi{
-    color:seashell;
-    padding-top: 5px;
-    margin-top: 10px;
-  }
+  
   .fixed {
     position: fixed;
     top: 0;
