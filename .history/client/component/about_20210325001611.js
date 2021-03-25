@@ -42,7 +42,7 @@ export default class about extends React.Component{
       render(){
             return(
                   <div >
-                        <h1>ABOUT</h1>
+                        
                         <div id= 'left' className='split'>
                               <img id='img' src='/image/loonapix_16165602921298317083.png'/>
                               {this.story()}

@@ -5,9 +5,7 @@
 }
 h1{
     text-decoration: underline;
-    color:black;
-    text-align: center;
-    margin-top: 2%;
+    color:black
 }
 .area{
       background: black;  
@@ -198,13 +196,14 @@ h1{
 }
 .split{
     height: 100%;
+    
 }
 #left {
     text-align: center;
     width: 55%;
 }
 #right{
-    margin-top: -625px;
+    margin-top: -585px;
     margin-left: 55%;
     width: 45%;
 }
