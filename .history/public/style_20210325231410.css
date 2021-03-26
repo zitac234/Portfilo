@@ -132,14 +132,15 @@ h1{
     height: 15px;
     animation-delay: 2s;
     animation-duration: 35s;
-} 
-.circles li:nth-child(10){
-    left: 85%;
-    width: 150px;
-    height: 150px;
-    animation-delay: 0s;
-    animation-duration: 11s;
 }
+  
+  .circles li:nth-child(10){
+      left: 85%;
+      width: 150px;
+      height: 150px;
+      animation-delay: 0s;
+      animation-duration: 11s;
+  }
   @keyframes animate {
       0%{
           transform: translateY(0) rotate(0deg);
@@ -154,23 +155,23 @@ h1{
   
   }
   /* =================================================navbar=============================================================== */
-#navbarUl{
+  #navbarUl{
     display: flex;
     list-style: none;
     justify-content: space-around;
-}
-.nav {
+  }
+  .nav {
     background: black;
     width: 100vw;
     height: 50px;
     border-bottom: 3px solid #8e793e;
-}
-.navLi{
+  }
+  .navLi{
     color:seashell;
     font-size: 22px;
     padding-top: 5px;
     margin-top: 10px;
-}
+  }
 .sticky {
   position: fixed;
   top: 0;
@@ -185,7 +186,7 @@ h1{
     width: 55%;
 }
 #right{
-    margin-top: -700px;
+    margin-top: -625px;
     margin-left: 55%;
     width: 45%;
 }

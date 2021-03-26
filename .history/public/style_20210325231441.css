@@ -165,12 +165,12 @@ h1{
     height: 50px;
     border-bottom: 3px solid #8e793e;
 }
-.navLi{
+  .navLi{
     color:seashell;
     font-size: 22px;
     padding-top: 5px;
     margin-top: 10px;
-}
+  }
 .sticky {
   position: fixed;
   top: 0;
@@ -185,7 +185,7 @@ h1{
     width: 55%;
 }
 #right{
-    margin-top: -700px;
+    margin-top: -625px;
     margin-left: 55%;
     width: 45%;
 }
