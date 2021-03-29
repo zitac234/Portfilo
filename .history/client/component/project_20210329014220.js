@@ -26,7 +26,7 @@ export default class project extends React.Component{
                         <div className='divRight'>
                                <img className='projectImage' src='/image/capstone.png'/>
                                <a href='http://tamagenki.herokuapp.com/' className='linkButton'>Website</a>
-                              <a href='https://github.com/2011-gravity0/tamagenki' className='linkButton'>Github</a>
+                        <a href='https://github.com/2011-gravity0/tamagenki' className='linkButton'>Github</a>
                         </div>
                   </div>
             )

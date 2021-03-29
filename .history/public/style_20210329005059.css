@@ -10,7 +10,7 @@ h1{
     text-decoration: underline;
     color:black;
     text-align: center;
-    padding-top:2%;
+    padding-top: 5;
 }
 #red{
     height:100vh;
@@ -185,7 +185,7 @@ h1{
     width: 55%;
 }
 #right{
-    margin-top: -70vh;
+    margin-top: -700px;
     margin-left: 55%;
     width: 45%;
 }
@@ -196,7 +196,7 @@ h1{
 }
 #divStory p{
      font-size: 20px;
-     /* margin-bottom: 15px; */
+     margin-bottom: 15px;
      padding: 2%;
 }
 #divStory{
